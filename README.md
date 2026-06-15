@@ -7,4 +7,4 @@ It supports BepInEx and MelonLoader, and also allows cross-loading through **exp
 
 Some mods with advanced setup instructions are built pre-configured and hosted on my server for simple installation: https://files.sirkingbinx.dev/MonkeModManager
 
-If you want a mod added/removed, DM or ping me in either of the modding discords (`sirkingbinx`). We accept both BepInEx and MelonLoader mods.
+
