@@ -6,7 +6,7 @@
 This is a fork of the [OG monke mod manager](https://github.com/burritosoftware/MonkeModManager) that has been updated with our cool new stuff.
 It supports BepInEx and MelonLoader, and also allows cross-loading through **experimental** software called [MelInEx](https://github.com/loafiat/MelInEx)
 
-#How To Use
+# How To Use
 
 You first install the latest version of MonkeModManager
 
