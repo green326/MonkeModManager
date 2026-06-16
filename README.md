@@ -11,13 +11,21 @@ It supports BepInEx and MelonLoader, and also allows cross-loading through **exp
 You first install the latest version of MonkeModManager
 
 
-<img width="564" height="405" alt="image" src="https://github.com/user-attachments/assets/c9fdaf27-2c92-4ebc-98a5-a45dbaf5ded3" />
+<img width="825" height="208" alt="image" src="https://github.com/user-attachments/assets/dc06c4d2-4975-410a-8f5a-290516cd6cd6" />
 
-The script may flag your anti virus but dont worry it is just a false positive
+
+The script may flag your anti virus but dont worry it is just a false positive 
+its only because it injects your mods into the game
 
 after installation run MonkeModManager
 
 Enjoy!
+
+
+
+
+
+
 
 
 
